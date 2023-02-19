@@ -1,2 +1,1 @@
-# prepcourse-Henry
-repositorio de prueba modulo 2 prepcourse Henry
+este proyecto es una prueba de como crear un repositorio en github y copiarlo a nuestra pc
